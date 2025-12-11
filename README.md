@@ -1,4 +1,4 @@
-Download the .exe or build it yourself. On first boot, it will ask you what folder you want to save the file to.
+Download the .exe or build it yourself using python. On first boot, it will ask you what folder you want to save the file to.
 
 You will need to install tkcalendar for this to work:
 
